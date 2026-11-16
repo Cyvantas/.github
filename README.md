@@ -1,4 +1,3 @@
-# .github
 CYVANTAS
 
 Security Beyond the Surface.
